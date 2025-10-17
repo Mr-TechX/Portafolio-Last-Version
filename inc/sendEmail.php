@@ -1,7 +1,7 @@
 <?php
 
 // Replace this with your own email address
-$siteOwnersEmail = 'ulises.camacho@pm.me';
+$siteOwnersEmail = 'Tu correo va aqui';
 
 
 if(isset($_POST['send'])) {
